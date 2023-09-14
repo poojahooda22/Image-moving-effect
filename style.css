@@ -25,7 +25,8 @@ html, body {
     align-items: center;
     width: 100%;
     height: 300px;
-    border-bottom: 2px solid rgb(255, 255, 255);
+    padding: 0 5vw;
+    border-bottom: 2px solid rgb(107, 107, 107);
 } 
 
 .elem h1 {
